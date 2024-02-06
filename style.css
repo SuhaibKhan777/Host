@@ -1,0 +1,14 @@
+.dropdown-item:hover{
+    background:linear-gradient(45deg,black,darkslategrey);
+    color: white;
+box-shadow: 0px 0px 5px black;
+}
+.bg-teal,btn-teal{
+    background-color: teal;
+}
+.text-teal{
+    color:teal;
+}
+.bg-purple{
+    background: linear-gradient(45deg,darkslategrey,purple);
+}
